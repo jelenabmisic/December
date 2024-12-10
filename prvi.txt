@@ -1,0 +1,83 @@
+!!!!!2026381278.eml
+!!!!!2750313999.avi
+!!!!!3017594097.pem
+!!!!!3633017556/
+!!!!!3644523131.doc
+!!!!!3802958479.ppt
+!!!!!4039957977.avi
+!!!!!4174954908/
+!!!!!753634561.pem
+!!!!!82617921.ppt
+!!!!!853807258.eml
+!!!!!949225412.doc
+# Use the official Debian base i.dockerfile
+---136 Sept  25 - 2024/
+000-short-important - Shortcut.lnk*
+069 K8s/
+24-12 JEN-KUB Final - Shortcut.lnk*
+24-12 JEN-KUB Workind on - Shortcut.lnk*
+901-all certs/
+ADMIN DESKTOP/
+AKTUELNO - Shortcut.lnk*
+AWS sysops/
+EVGENII DISCONNECTIONS/
+GET - Chrome.lnk*
+GitHub-learning/
+Jenkins-dul9-sv06901/
+Jens - slave disconnection problem/
+KUBECTL/
+New folder/
+New folder (2)/
+Valeo - Chrome.lnk*
+XORXOR1184949861.doc
+XORXOR1390482893.doc
+XORXOR1769796725.db
+XORXOR2402322244.pps
+XORXOR2755840911.jpg
+XORXOR2930717515.xls
+XORXOR3419687863.pps
+XORXOR521287913.db
+XORXOR774815177.jpg
+XORXOR849220161.xls
+ZZZZZ1302441251.bmp
+ZZZZZ1753180999.pdf
+ZZZZZ1843403148.sql
+ZZZZZ1879271159.mdb
+ZZZZZ2040673126.doc
+ZZZZZ2440303304.doc
+ZZZZZ37833970.docx
+ZZZZZ3912005592.sql
+ZZZZZ628363143.docx
+ZZZZZ758406788.mdb
+ZZZZZ898089744.pdf
+ZZZZZ961031659.bmp
+ZZ_Jelena - Shortcut.lnk*
+bash commands and scripts to analyze jenkins file system.sh
+create empty docs.cmd
+create-emprty-docs.ps1
+creating empty rtfs.txt
+danas.sh
+dec 2024 upgrade/
+desktop.ini
+eks on 069 novembar 2024/
+eks on 069 novembar 2024 - more final/
+filip_ps_remove_bckps.txt
+greske!!!.rtf
+groovy scripting.groovy
+mail-options.jpg
+memority_pwd.txt
+new.groovy
+nodes-and-queue-info-short-4timesperday.groovy
+razbacano po desktopu/
+sastanak sa Nemanjom Mirkovicem.rtf
+temp-delete/
+uwQvSZ1232726983.txt
+uwQvSZ1680383470.pptx
+uwQvSZ2276033067.xlsx
+uwQvSZ2546202084.pst
+uwQvSZ3061145564.png
+uwQvSZ3341591848.pst
+uwQvSZ4208237381.png
+uwQvSZ601644735.pptx
+uwQvSZ667419246.txt
+uwQvSZ834476599.xlsx
