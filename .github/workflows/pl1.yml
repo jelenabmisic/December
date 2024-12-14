@@ -1,0 +1,20 @@
+name: PL1
+on:
+  workflow_dispatch:
+jobs:
+  Hello:
+    runs-on: windows-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v4.1.0
+    - name: echo message
+      run: echo Hello World
+    - name: checkout
+      uses: actions/checkout@v4.1.0
+      with:
+        repository: jelenabmisic/December
+    - name: echo message
+      run: echo Hello World
+    - name: bat
+      shell: cmd
+      run: izvrsi.bat
