@@ -1,0 +1,27 @@
+name: pl2
+on:
+  workflow_dispatch:
+jobs:
+  Hello:
+    runs-on:
+      - self-hosted
+      - node1
+    steps:
+    - name: checkout
+      uses: actions/checkout@v4.1.0
+    - name: echo message
+      run: echo Hello World
+    - name: checkout
+      uses: actions/checkout@v4.1.0
+      with:
+        repository: jelenabmisic/December
+  Hello_again:
+    name: Hello-again
+    runs-on: windows-latest
+    needs: Hello
+    steps:
+    - name: checkout
+      uses: actions/checkout@v4.1.0
+    - name: bat
+      shell: cmd
+      run: 'dir c: > txt.txt'
